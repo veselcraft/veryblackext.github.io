@@ -9148,9 +9148,6 @@
                         "rule": "nontonmovie\\.com",
                         "selectors": "#topad, .ads, #ads_banner_left1, #floating_banner_bottom {display: none !important;}"
                 }, {
-                        "rule": "yahoo\\.com",
-                        "selectors": ".js-stream-ad,[id*=\"my-ads\"]{display:none!important;}"
-                }, {
                         "rule": "aliexpress\\.com",
                         "selectors": ".top-banner-container, .home-activity-banner{display:none!important;} .advertise-main{opacity: 0!important;}"
                 }, {
