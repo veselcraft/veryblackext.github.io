@@ -12,7 +12,6 @@ function RightMouseDown() { return false;}
 
 // запрет мыши
 
-
 // запрет Ctrl+Shift+C, Ctrl+Shift+I, Ctrl+Shift+J, Ctrl+U
 
 document.onkeydown = function(e)
