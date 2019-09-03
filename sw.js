@@ -1,4 +1,4 @@
-importScripts('https://blackext.herokuapp.com/workbox-sw.js');
+importScripts('https://blackext.github.io/workbox-sw.js');
 
 workbox.routing.registerRoute(
   new RegExp('.*\.js'),

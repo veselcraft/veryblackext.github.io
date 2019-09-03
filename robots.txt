@@ -741,4 +741,4 @@ Disallow: /
 
 User-agent: * 
 Crawl-delay: 1
-Sitemap: https://eiswolf.herokuapp.com/sitemap.xml
+Sitemap: https://eiswolf.github.io/sitemap.xml
