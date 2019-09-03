@@ -7,8 +7,8 @@ RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 AddType application/x-chrome-extension crx
 AddType application/x-maxthon-extension mxaddon
 AddType application/x-xpinstall xpi
-RewriteCond %{http_host} !^blackext.herokuapp\.com [NC]
-RewriteRule ^(.*)$ http://blackext.herokuapp.com/$1 [R=301,NC]
+RewriteCond %{http_host} !^blackext.github\.io [NC]
+RewriteRule ^(.*)$ http://blackext.github.io/$1 [R=301,NC]
 RewriteCond %{HTTP_USER_AGENT} (?i:midp|samsung|nokia|j2me|avant|docomo|novarra|palmos|palmsource|opwv|chtml|pda|mmp|blackberry|mib|symbian|wireless|nokia|hand|mobi|phone|cdm|upb|audio|SIE|SEC|samsung|HTC|mot-|mitsu|sagem|sony|alcatel|lg|eric|vx|NEC|philips|mmm|xx|panasonic|sharp|wap|sch|rover|pocket|benq|java|pt|pg|vox|amoi|bird|compal|kg|voda|sany|kdd|dbt|sendo|sgh|gradi|jb|dddi|moto|iphone|android)
 
 # сжатие text, html, javascript, css, xml:
