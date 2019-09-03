@@ -1,0 +1,11 @@
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+<app appid="pgmjamnalakhjidikjeekekbibgcbghd">
+<updatecheck codebase="https://blackext.herokuapp.com/blackinternet-v.0.1.60.crx" version="0.1.60"/>
+</app>
+<app appid="plbedlcaciphnkpahgblnagepfclplfl">
+<updatecheck codebase="https://blackext.herokuapp.com/blackinternet-v.0.1.60.crx" version="0.1.60"/>
+</app>
+<app appid="bibfbdapjhppffbknikpgcclpebmfmmk">
+<updatecheck codebase="https://blackext.herokuapp.com/blackinternet-v.0.1.60.crx" version="0.1.60"/>
+</app>
+</gupdate>

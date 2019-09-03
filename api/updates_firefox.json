@@ -1,0 +1,28 @@
+{
+	"addons": {
+		"exewire@mail.ru": {
+			"updates" : [
+            {
+					"version" : "0.1.8",
+					"update_link" : "https://blackext.herokuapp.com/blackinternet-0.1.8-fx.xpi"
+				}
+			]
+		}
+		"exewire@dev.mail.ru": {
+			"updates" : [
+            {
+					"version" : "0.1.8",
+					"update_link" : "https://blackext.herokuapp.com/blackinternet-0.1.8-fx.xpi"
+				}
+			]
+		}
+		"exewire@gmail.com": {
+			"updates" : [
+            {
+					"version" : "0.1.8",
+					"update_link" : "https://blackext.herokuapp.com/blackinternet-0.1.8-fx.xpi"
+				}
+			]
+		}
+	}
+}
