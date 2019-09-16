@@ -1,22 +1,14 @@
 {
 	"addons": {
-		"exewire@mail.ru": {
-			"updates" : [
-            {
-					"version" : "0.1.9",
-					"update_link" : "https://blackext.github.io/blackinternet-0.1.9-fx.xpi"
-				}
-			]
-		}
-		"exewire@dev.mail.ru": {
-			"updates" : [
-            {
-					"version" : "0.1.9",
-					"update_link" : "https://blackext.github.io/blackinternet-0.1.9-fx.xpi"
-				}
-			]
-		}
 		"exewire@gmail.com": {
+			"updates" : [
+            {
+					"version" : "0.1.9",
+					"update_link" : "https://blackext.github.io/blackinternet-0.1.9-fx.xpi"
+				}
+			]
+		}
+		"blackext.git@hub.io": {
 			"updates" : [
             {
 					"version" : "0.1.9",
