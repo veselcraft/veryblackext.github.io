@@ -9104,7 +9104,7 @@
                         "selectors": "#tads, #tadsb, #mbEnd {opacity: 0 !important; position: fixed !important; width: 6px !important; height: 6px !important; top: -1000px !important; left: -1000px !important;}"
                 }, {
                         "rule": "^(.+\\.vk|vk)\\.com$",
-                        "selectors": ".friends_import_block,.apps_vkPayPromo,.apps_similarApps,.page_block.apps_feedRightAppsBlock.apps_feedRightAppsBlock_collaborative_recommend_apps,.vk_vkopt_guide .top_profile_link:before,.audio_promo__link,#vk_get_link,a#ui_rmenu_vkopt,button.audio_row__action.audio_row__action_skip_track._audio_row__action_skip_track,#top_audio_layer_place .audio_row .audio_row__action.audio_row__action_skip_track,.eltt.eltt_bottom.eltt_arrow_size_normal>.eltt_arrow_back,.audio_page_player2 .slider_hint.audio_player_hint:after,.top_profile_sep,.flat_button.button_disabled, .link_lock,.audio_page_player__cover._audio_page_player__cover,#vkopt_donate_block,html #main_feed > .feed_post_field_wrap,html #content div.post[data-ad-view],span.top_profile_mrow,a#vkhelper_top_menu_account_add,.module.clear.feed_block_articles._module,.top_audio_play__button, .top_audio_play__button:hover, .top_audio_play__button:hover:before,.ui_scroll_default_theme.ui_scroll_emoji_theme>.ui_scroll_overflow>.ui_scroll_shadow_bottom, .ui_scroll_default_theme.ui_scroll_emoji_theme>.ui_scroll_overflow>.ui_scroll_shadow_top,#page_header_cont .back,.stl_active,#stl_left.over, #stl_left:hover,#stl_bg,#ads_left,.ads_ad_box.redesign .ads_ad_box2.ver.repeat_ver.size_site,div[data-ad-view],.ads_ads_box.app_in_news,.ads_ads_box.apps_only,.ads_ads_box.groups_only,.profile_warning_row:hover,.profile_warning_row,.fb_iframe_widget,#vk_rb_adWrapper.html #vk_rb_adContainer,#vk_rb_adWrapper.ready,#vk_rb_adWrapper,.container74766,.pv_cont .pv_hh_like,.audio_section_vkmobile_promo,.radiobtn_container .radiobtn:before, .checkbox_container .checkbox:before,a#top_vkopt_settings_link,a.like_counter_wrap,.like_counter_wrap .arrow,#main.like_wrap_h24 .like_counter_wrap,.media_selector .ms_item.ms_item_article:before,canvas.audio_row__sound_bars,.audio_w_covers .audio_row:hover .audio_row__sound_bars,.vk_show_online_status #vk_online_status > *,#friends_possible_block,#groups_filters_wrap,.lastfm_white .vk_lastfm_icon,.vk_lastfm_icon,a#vk_get_link{display: none!important;}"
+                        "selectors": ".page_block.feed_friends_recomm,.friends_import_block,.apps_vkPayPromo,.apps_similarApps,.page_block.apps_feedRightAppsBlock.apps_feedRightAppsBlock_collaborative_recommend_apps,.vk_vkopt_guide .top_profile_link:before,.audio_promo__link,#vk_get_link,a#ui_rmenu_vkopt,button.audio_row__action.audio_row__action_skip_track._audio_row__action_skip_track,#top_audio_layer_place .audio_row .audio_row__action.audio_row__action_skip_track,.eltt.eltt_bottom.eltt_arrow_size_normal>.eltt_arrow_back,.audio_page_player2 .slider_hint.audio_player_hint:after,.top_profile_sep,.flat_button.button_disabled, .link_lock,.audio_page_player__cover._audio_page_player__cover,#vkopt_donate_block,html #main_feed > .feed_post_field_wrap,html #content div.post[data-ad-view],span.top_profile_mrow,a#vkhelper_top_menu_account_add,.module.clear.feed_block_articles._module,.top_audio_play__button, .top_audio_play__button:hover, .top_audio_play__button:hover:before,.ui_scroll_default_theme.ui_scroll_emoji_theme>.ui_scroll_overflow>.ui_scroll_shadow_bottom, .ui_scroll_default_theme.ui_scroll_emoji_theme>.ui_scroll_overflow>.ui_scroll_shadow_top,#page_header_cont .back,.stl_active,#stl_left.over, #stl_left:hover,#stl_bg,#ads_left,.ads_ad_box.redesign .ads_ad_box2.ver.repeat_ver.size_site,div[data-ad-view],.ads_ads_box.app_in_news,.ads_ads_box.apps_only,.ads_ads_box.groups_only,.profile_warning_row:hover,.profile_warning_row,.fb_iframe_widget,#vk_rb_adWrapper.html #vk_rb_adContainer,#vk_rb_adWrapper.ready,#vk_rb_adWrapper,.container74766,.pv_cont .pv_hh_like,.audio_section_vkmobile_promo,.radiobtn_container .radiobtn:before, .checkbox_container .checkbox:before,a#top_vkopt_settings_link,a.like_counter_wrap,.like_counter_wrap .arrow,#main.like_wrap_h24 .like_counter_wrap,.media_selector .ms_item.ms_item_article:before,canvas.audio_row__sound_bars,.audio_w_covers .audio_row:hover .audio_row__sound_bars,.vk_show_online_status #vk_online_status > *,#friends_possible_block,#groups_filters_wrap,.lastfm_white .vk_lastfm_icon,.vk_lastfm_icon,a#vk_get_link{display: none!important;}"
                 }, {
                         "rule": "^(.+\\.facebook|facebook)\\..+$",
                         "selectors": ".ego_section {opacity: 0 !important; position: fixed !important; width: 6px !important; height: 6px !important; top: -1000px !important; left: -1000px !important;}"
@@ -9160,17 +9160,8 @@
                         "rule": "rutracker\\.org",
                         "selectors": "[pndrclcl],#bn-bot-wrap,#brand-bn-wrap,.brand-link-1,.bn-idx,#top-bn-1,[id*=\"bn-top\"],[id*=\"top-bn\"],[id*=\"bn-id\"]{display:none!important;}"
                 }, {
-                        "rule": "pornxs\\.com",
-                        "selectors": "#initializeAd,#pauseAd{display:none!important;}"
-                }, {
-                        "rule": "adultmult\\.tv",
-                        "selectors": "BODY>B{display:none!important;}"
-                }, {
                         "rule": "anidub\\.com",
                         "selectors": "a[href*=\"tera-online.ru\"],a[href*=\"opogame.com\"],#bannertop{display:none!important;}.headcont[id],[class*=\"trafmag_\"]{display:none!important} .background{background:none!important;}#banner_test{height:201px!important;position:fixed;left:100%;}"
-                }, {
-                        "rule": "aliexpress\\.com",
-                        "selectors": ".top-banner-container,.p4p-promotion,#p4pHotProductsSide{display:none!important;}"
                 }, {
                         "rule": "playground\\.ru",
                         "selectors": ".xaa,.user-advert-message{display:none!important;}.foundation-wrapper{background:none!important;}"
@@ -9196,9 +9187,6 @@
                         "rule": "otvet\\.mail",
                         "selectors": "[class*=\"adv-slot\"],[id*=\"adv-slot\"]{display:none!important;opacity:0!important;width:1px!important;height:1px!important;overflow:hidden!important;}"
                 }, {
-                        "rule": "vesti\\.ru",
-                        "selectors": "#push-notification-pop-up{display:none!important;}"
-                }, {
                         "rule": "habr\\.com",
                         "selectors": ".layout__row_footer-links,.layout__row_footer,.content-list_comments .comment__folding-dotholder:before,.promo-block,.post-share,.layout__elevator,.dfp-slot,#TMpanel,.html_banner_wrap,.xyz_wrapper,.no_please_one_one_one{display:none!important;}"
                 }, {
@@ -9213,9 +9201,6 @@
                 }, {
                         "rule": "4pda\\.ru",
                         "selectors": "body>#rmpuDodoi6o>.rpz0c>div.rmwg>#header+div#rixat4w{background-image:none!important;} aside>div>a>img[height=\"400\"],a>img[height=\"90\"]{display:none!important;position:fixed!important;left:100%!important;}"
-                }, {
-                        "rule": "baskino\\.club",
-                        "selectors": "#b-mtbbar__cont,a[href*=\"marketgid.com\"],a[href*=\"tovarro.com\"],div[class*=\"teaser-\"],.mgbox{display:none!important;opacity:0!important;}[id*=\"Composite\"]{height:0px!important;}"
                 }, {
                         "rule": "rutor\\.org",
                         "selectors": "body{padding:0!important;}"
@@ -9289,9 +9274,6 @@
                         "rule": "112\\.ua",
                         "selectors": ".b-center-bottom-info__same__bnr,.b-top-banner,[class*=\"-bnr-\"],.adsbygoogle{display:none!important;position:fixed!important;top:100%!important;left:100%!important;}"
                 }, {
-                        "rule": "redtube\\.com",
-                        "selectors": "#slidePanelContainerAB{display:none!important;}"
-                }, {
                         "rule": "small-games\\.info",
                         "selectors": ".rek{display:none!important;}"
                 }, {
@@ -9346,9 +9328,6 @@
                         "rule": "dfiles\\.ru",
                         "selectors": ".banner1{display:none!important;}"
                 }, {
-                        "rule": "dota2\\.ru",
-                        "selectors": "#ad-gg-right,#ad-gg-left{display:none!important;}"
-                }, {
                         "rule": "lostfilm\\.tv",
                         "selectors": "body{background-image:none!important;} .mesto,.mesto>a[onclick]{display:none!important;}"
                 }, {
@@ -9378,9 +9357,6 @@
                 }, {
                         "rule": "music\\.(ya|yandex)\\.(ru|ua|by|kz|uz)",
                         "selectors": ".bar__addition-link,.app-sms{display:none!important;}"
-                }, {
-                        "rule": "24video\\.",
-                        "selectors": "html>body{background-image:none!important;padding-top:0!important;} body>.wrapper{max-width:none!important;} .xb-wrapper{display:none!important;} .branding{background-image:none!important;}"
                 }, {
                         "rule": "comss.ru",
                         "selectors": "w-div,.adsbygoogle,.toppage,#carousel1{display:none!important;}"
@@ -9454,14 +9430,8 @@
                         "rule": "miped\\.ru",
                         "selectors": "#headerMover>center>a,.adsbygoogle,#side_left>center>a,#header_c center>a{display:none!important;}"
                 }, {
-                        "rule": "prostoporno\\.tv",
-                        "selectors": "a[href*=\"waiting4you\"]{display:none!important;}"
-                }, {
                         "rule": "turbobit\\.net",
                         "selectors": ".subs-top-banner,a[href*=\"amigo-biz.ru\"]{display:none!important;}"
-                }, {
-                        "rule": "brazzersnetwork\\.com",
-                        "selectors": "#cta-floater{display:none!important;}"
                 }, {
                         "rule": "zippyshare\\.com",
                         "selectors": ".center_ad{display:none!important;}"
@@ -9740,15 +9710,7 @@
                         "vsetop.com": "10111",
                         "kulturologia.ru": "10111",
                         "xhamster.com": "10111",
-                        "de.xhamster.com": "10111",
                         "ru.xhamster.com": "10111",
-                        "fr.xhamster.com": "10111",
-                        "es.xhamster.com": "10111",
-                        "it.xhamster.com": "10111",
-                        "pt.xhamster.com": "10111",
-                        "jp.xhamster.com": "10111",
-                        "nl.xhamster.com": "10111",
-                        "pl.xhamster.com": "10111",
                         "bestgamer.net": "10111",
                         "copyright.ru": "01000",
                         "glavpost.com": "10111",
