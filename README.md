@@ -36,16 +36,16 @@
 ## 🖼 Скриншоты
 
 ### Главное контекстное меню расширения
-![](https://i.imgur.com/kw8f5KB.png)
+![](https://png)
 
 ### Вкладка "Плагины"
-![](https://i.imgur.com/ZMVBnNm.png)
+![](https://.png)
 
 ### Вкладка "Список плагинов"
-![](https://i.imgur.com/ZMVBnNm.png)
+![](https://.png)
 
 ### Вкладка "Сайты"
-![](https://i.imgur.com/ZMVBnNm.png)
+![](https://.png)
 
 ## 📡 Обратная связь с разработчиком
 [![Discord](https://discordapp.com/api/guilds/610915411256672297/widget.png?style=banner2)](https://invite.gg/exewire)
