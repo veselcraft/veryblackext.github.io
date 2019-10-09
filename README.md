@@ -6,12 +6,11 @@
 <div align="center">
 Браузерное расширение для чёрного режима всех посещаемых сайтов
 <p align="center">
-    <a></a>
-  ![Codacy grade](https://img.shields.io/codacy/grade/c5d3a5ed7aa04d13ae38b0d51941c0ed?style=for-the-badge&colorA=000&colorB=000)
-  ![GitHub](https://img.shields.io/github/license/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
-  ![GitHub issues](https://img.shields.io/github/issues-raw/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
-  ![GitHub contributors](https://img.shields.io/github/contributors/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
+![Codacy grade](https://img.shields.io/codacy/grade/c5d3a5ed7aa04d13ae38b0d51941c0ed?style=for-the-badge&colorA=000&colorB=000)
+![GitHub](https://img.shields.io/github/license/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
+![GitHub repo size](https://img.shields.io/github/repo-size/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
+![GitHub issues](https://img.shields.io/github/issues-raw/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
+![GitHub contributors](https://img.shields.io/github/contributors/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
 </p>
 </div>
 
