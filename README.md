@@ -7,14 +7,11 @@
 Браузерное расширение для чёрного режима всех посещаемых сайтов
 <p align="center">
     <a></a>
-
   ![Codacy grade](https://img.shields.io/codacy/grade/c5d3a5ed7aa04d13ae38b0d51941c0ed?style=for-the-badge&colorA=000&colorB=000)
-  [![license](https://img.shields.io/github/license/blackext/blackext.github.io.svg?style=for-the-badge&colorA=000&colorB=000)](https://github.com/blackext/blackext.github.io/blob/master/LICENSE)
+  ![GitHub](https://img.shields.io/github/license/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
   ![GitHub repo size](https://img.shields.io/github/repo-size/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
   ![GitHub issues](https://img.shields.io/github/issues-raw/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
-  [![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=for-the-badge&colorA=000&colorB=000)](#contributing)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&colorA=000&colorB=000)](https://makeapullrequest.com)
-  [![FOSSA Status](https://img.shields.io/badge/license-passing-%23?color=%23000&style=for-the-badge&colorA=000&colorB=000)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblackext%2Fblackext.github.io?ref=badge_shield)
+  ![GitHub contributors](https://img.shields.io/github/contributors/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
 </p>
 </div>
 
