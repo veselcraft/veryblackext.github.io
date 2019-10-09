@@ -5,7 +5,6 @@
 
 <div align="center">
 Браузерное расширение для чёрного режима всех посещаемых сайтов
-<div align="center">
 
 ![Codacy grade](https://img.shields.io/codacy/grade/c5d3a5ed7aa04d13ae38b0d51941c0ed?style=for-the-badge&colorA=000&colorB=000)
 
@@ -16,7 +15,6 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/blackext/blackext.github.io?style=for-the-badge&colorA=000&colorB=000)
-</div>
 </div>
 
 ## Возможности
@@ -54,6 +52,7 @@
 ## 🤵 Лицензия
 Данный проект работает под лицензией:
 - <a rel="license" href="https://github.com/blackext/blackext.github.io/blob/master/LICENSE/">GPL-3.0 License</a>
+
 Автор не несёт отвественности за фишинговый вариант расширения, сделанный другим разработчиком. На расширение стоит запрет на копирование материала.
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblackext%2Fblackext.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblackext%2Fblackext.github.io?ref=badge_large)
