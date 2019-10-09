@@ -51,8 +51,8 @@
 - **ExeWire** - разработчик - [ExeWire](https://github.com/ExeWireDev)
 
 ## 🤵 Лицензия
-Данный проект работает под лицензиями:
+Данный проект работает под лицензией:
 - <a rel="license" href="https://github.com/blackext/blackext.github.io/blob/master/LICENSE/">GPL-3.0 License</a>
-- <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC-BY-NC-ND 4.0 License</a> 
+Автор не несёт отвественности за фишинговый вариант расширения, сделанный другим разработчиком. На расширение стоит запрет на копирование материала.
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fblackext%2Fblackext.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fblackext%2Fblackext.github.io?ref=badge_large)
